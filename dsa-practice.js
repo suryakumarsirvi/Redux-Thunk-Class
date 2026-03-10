@@ -21,3 +21,10 @@ function isValidURL(url) {
 
 // variation-1779487176461
 
+// Deep clone
+function clone(obj) {
+  return JSON.parse(JSON.stringify(obj));
+}
+
+// variation-1782410383241
+
