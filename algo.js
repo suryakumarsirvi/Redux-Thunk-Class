@@ -17,3 +17,13 @@ function isPrime(n) {
 
 // variation-1779487144700
 
+// Chunk array
+function chunk(arr, size) {
+  const res = [];
+  for (let i = 0; i < arr.length; i += size)
+    res.push(arr.slice(i, i + size));
+  return res;
+}
+
+// variation-1782410376960
+
