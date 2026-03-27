@@ -1,0 +1,22 @@
+export const users = [
+    { id: 1, name: "Aarav Sharma", username: "aarav01", email: "aarav01@gmail.com" },
+    { id: 2, name: "Vivaan Gupta", username: "vivaan02", email: "vivaan02@gmail.com" },
+    { id: 3, name: "Aditya Verma", username: "aditya03", email: "aditya03@gmail.com" },
+    { id: 4, name: "Krishna Yadav", username: "krishna04", email: "krishna04@gmail.com" },
+    { id: 5, name: "Ishaan Singh", username: "ishaan05", email: "ishaan05@gmail.com" },
+    { id: 6, name: "Rohan Mehta", username: "rohan06", email: "rohan06@gmail.com" },
+    { id: 7, name: "Arjun Patel", username: "arjun07", email: "arjun07@gmail.com" },
+    { id: 8, name: "Kabir Khan", username: "kabir08", email: "kabir08@gmail.com" },
+    { id: 9, name: "Aryan Mishra", username: "aryan09", email: "aryan09@gmail.com" },
+    { id: 10, name: "Siddharth Jain", username: "sid10", email: "sid10@gmail.com" },
+    { id: 11, name: "Ananya Sharma", username: "ananya11", email: "ananya11@gmail.com" },
+    { id: 12, name: "Diya Gupta", username: "diya12", email: "diya12@gmail.com" },
+    { id: 13, name: "Sara Khan", username: "sara13", email: "sara13@gmail.com" },
+    { id: 14, name: "Priya Verma", username: "priya14", email: "priya14@gmail.com" },
+    { id: 15, name: "Meera Iyer", username: "meera15", email: "meera15@gmail.com" },
+    { id: 16, name: "Riya Kapoor", username: "riya16", email: "riya16@gmail.com" },
+    { id: 17, name: "Neha Joshi", username: "neha17", email: "neha17@gmail.com" },
+    { id: 18, name: "Kavya Nair", username: "kavya18", email: "kavya18@gmail.com" },
+    { id: 19, name: "Tanvi Agarwal", username: "tanvi19", email: "tanvi19@gmail.com" },
+    { id: 20, name: "Pooja Choudhary", username: "pooja20", email: "pooja20@gmail.com" }
+];
