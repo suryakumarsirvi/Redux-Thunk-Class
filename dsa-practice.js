@@ -13,3 +13,11 @@ function factorial(n) {
 
 // variation-1779487149235
 
+// URL validator
+function isValidURL(url) {
+  try { new URL(url); return true; }
+  catch { return false; }
+}
+
+// variation-1779487176461
+
